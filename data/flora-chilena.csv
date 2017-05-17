@@ -1,0 +1,85 @@
+id,clase,orden,familia,nombre_cientifico,nombre_comun,origen,conservacion
+67,Magnoliopsida,Caryophyllales,Cactaceae,Austrocactus spiniflorus,Cacto spinifloro,Nativa,En Peligro (EN)
+68,Magnoliopsida,Laurales,Lauraceae,Beilschmiedia berteroana,belloto del sur,Nativa,En Peligro (EN)
+72,Liliopsida,Liliales,Alstroemeriaceae,Bomarea dulcis,—,Nativa,En Peligro (EN)
+82,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa taltalensis,Quisco del desierto,Nativa,En Peligro (EN)
+89,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia iquiquensis,Copao de Iquique,Nativa,En Peligro (EN)
+95,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis grandiflora,Cactus,Nativa,En Peligro (EN)
+401,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa grandiflora,—,Nativa,En Peligro (EN)
+445,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia breviflora,Copao,Nativa,—
+514,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria curvispina var grandiflora,,Nativa,En Peligro (EN)
+522,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus heinrichianus,—,Nativa,Casi amenazada (NT)
+571,Liliopsida,Liliales,Amaryllidaceae,Placea ornata,—,Nativa,Vulnerable (VU)
+579,Magnoliopsida,Fabales,Fabaceae,Prosopis alpataco,Alpataco,Nativa,Vulnerable (VU)
+582,Magnoliopsida,Fabales,Fabaceae,Prosopis flexuosa,Tamarugo enano,Nativa,Vulnerable (VU)
+598,Magnoliopsida,Lamiales,Lamiaceae,Salvia tubiflora,Salvia roja,Nativa,Vulnerable (VU)
+599,Magnoliopsida,Lamiales,Lamiaceae,Clinopodium multiflorum,Menta de árbol,Nativa,Casi amenazada (NT)
+1068,Magnoliopsida,Caryophyllales,Chenopodiaceae,Suaeda multiflora,—,Nativa,Vulnerable (VU)
+1121,Magnoliopsida,Caryophyllales,Caryophyllaceae,Arenaria grandiflora,Clavel de montaña,Exótica,—
+1175,Magnoliopsida,Caryophyllales,Caryophyllaceae,Spergularia confertiflora,—,Nativa,Vulnerable (VU)
+1178,Liliopsida,Asparagales,Alliaceae,Tristagma subbiflorum,—,Nativa,En peligro crítico (CR)
+1182,Magnoliopsida,Urticales,Urticaceae,Urtica glomeruliflora,—,Nativa,En peligro crítico (CR)
+1245,Magnoliopsida,Dipsacales,Caprifoliaceae,Abelia triflora,—,Exótica,—
+1305,Magnoliopsida,Solanales,Solanaceae,Brunfelsia pauciflora,—,Exótica,—
+1308,Magnoliopsida,Solanales,Solanaceae,Brunfelsia uniflora,Diamelo azul,Exótica,—
+1506,Magnoliopsida,Campanulales,Campanulaceae,Campanula lactiflora,Campanula,Exótica,—
+1525,Magnoliopsida,Scrophulariales,Bignoniaceae,Campsis grandiflora,—,Exótica,—
+1618,Magnoliopsida,Caryophyllales,Caryophyllaceae,Cerastium arvense,Cuernecita,Exótica,—
+1837,Liliopsida,Cyperales,Poaceae,Agrostis vinealis,Brown bent grass,Exótica,—
+1920,Magnoliopsida,Mirtales,Onagraceae,Oenothera glazioviana,—,Exótica,—
+1924,Magnoliopsida,Solanales,Solanaceae,Petunia parviflora,—,Exótica,—
+1930,Magnoliopsida,Caryophyllales,Amaranthaceae,Pyrolirion tubiflorum,—,Exótica,—
+1972,Liliopsida,Asparagales,Iridaceae,Crocosmia x crocosmiiflora,—,Exótica,—
+2087,Magnoliopsida,Papaverales,Papaveraceae,Fumaria parviflora,Hierba de la culebra,Exótica,—
+2091,Magnoliopsida,Asterales,Asteraceae,Galinsoga parviflora,"Pacoyuyo, pacoyuyuo fino-cimarrón, paico-jullo",Exótica,—
+2137,Magnoliopsida,Fabales,Fabaceae,Melilotus indicus,Meliloto de color amarillo,Exótica,—
+2139,Liliopsida,Cyperales,Poaceae,Melinis minutiflora,—,Exótica,—
+2171,Magnoliopsida,Solanales,Solanaceae,Nicotiana glauca,Palqui inglés,Exótica,—
+2191,Magnoliopsida,Gerianales,Oxalidaceae,Oxalis pes-caprae,Vinagrillo,Exótica,—
+2269,Magnoliopsida,Malvales,Malvaceae/Palaua,Malva assurgentiflora,—,Exótica,—
+2274,Magnoliopsida,Malvales,Malvaceae/Palaua,Malva parviflora,Malva,Exótica,—
+2301,Magnoliopsida,Violales,Passifloraceae,Passiflora foetida,Parchita de culebra,Exótica,—
+2321,Magnoliopsida,Lamiales,Verbenaceae,Phyla nodiflora,—,Exótica,—
+2369,Magnoliopsida,Caryophyllales,Portulacaceae,Portulaca oleracea,Verdolaga,Exótica,—
+2399,Magnoliopsida,Fabales,Fabaceae,Rhynchosia minima,—,Exótica,—
+2465,Liliopsida,Cyperales,Poaceae,Setaria parviflora,—,Exótica,—
+2588,Magnoliopsida,Fabales,Fabaceae,Vicia parviflora,—,Exótica,—
+2810,Magnoliopsida,Fabales,Fabaceae,Adesmia argyrophylla,Varilla,Nativa,Vulnerable (VU)
+2842,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce heinrichiana,Quisquito del Elqui,Nativa,Preocupación menor (LC)
+2865,Magnoliopsida,Solanales,Solanaceae,Lycium boerhaviaefolia,Coralito del norte,Nativa,Vulnerable (VU)
+2866,Magnoliopsida,Malpighiales,Malesherbiaceae,Malesherbia densiflora,Piojillo,Nativa,—
+2867,Magnoliopsida,Malpighiales,Malesherbiaceae,Malesherbia obtusa,Piojillo,Nativa,—
+3145,Liliopsida,Cyperales,Cyperaceae,Carex lateriflora,—,Nativa,—
+3170,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria biflora,—,Nativa,—
+3174,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria crenatiflora,—,Nativa,—
+3192,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria thyrsiflora,—,Nativa,—
+3194,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria uniflora,—,Nativa,—
+3206,Magnoliopsida,Dipsacales,Valerianaceae,Valeriana laxiflora,—,Nativa,—
+3433,Liliopsida,Orchidales,Orchidaceae,Chloraea multiflora,—,Nativa,—
+3438,Liliopsida,Orchidales,Orchidaceae,Chloraea viridiflora,—,Nativa,—
+3472,Liliopsida,Liliales,Tecophilaeaceae,Conanthera biflora,—,Nativa,—
+3524,Magnoliopsida,Lamiales,Boraginaceae,Cryptantha parviflora,—,Nativa,—
+3855,Magnoliopsida,Solanales,Solanaceae,Jaborosa parviflora,—,Nativa,—
+3927,Liliopsida,Asparagales,Iridaceae,Libertia sessiliflora,—,Nativa,—
+4043,Magnoliopsida,Lamiales,Boraginaceae,Myosotis albiflora,—,Nativa,—
+4066,Liliopsida,Cyperales,Poaceae,Nassella pubiflora,—,Nativa,—
+4169,Magnoliopsida,Violales,Passifloraceae,Passiflora caerulea,—,Nativa,—
+4235,Magnoliopsida,Plantaginales,Plantaginaceae,Plantago glandiflora,—,Nativa,—
+4336,Magnoliopsida,Solanales,Solanaceae,Reyesia parviflora,—,Nativa,—
+4420,Magnoliopsida,Asterales,Asteraceae,Solidago chilensis,Huellén,Exótica,—
+4442,Magnoliopsida,Caryophyllales,Caryophyllaceae,Stellaria parviflora,—,Nativa,—
+4586,Magnoliopsida,Caryophyllales,Portulacaceae,Cistanthe grandiflora,—,Nativa,—
+4617,Magnoliopsida,Caryophyllales,Portulacaceae,Montiopsis cistiflora,—,Nativa,—
+4622,Magnoliopsida,Caryophyllales,Portulacaceae,Montiopsis parviflora,—,Nativa,—
+4690,Liliopsida,Liliales,Liliaceae,Oziroé biflora,—,Nativa,—
+4710,Magnoliopsida,Asterales,Asteraceae,Tagetes multiflora,—,Nativa,—
+4734,Liliopsida,Orchidales,Corsiaceae,Arachnitis uniflora,—,Nativa,—
+4895,Liliopsida,Orchidales,Orchidaceae,Ulantha grandiflora,—,Nativa,—
+4994,Magnoliopsida,Nepenthales,Droseraceae,Drosera uniflora,—,Nativa,—
+5007,Magnoliopsida,Mirtales,Onagraceae,Fuchsia magellanica,—,Nativa,—
+5047,Magnoliopsida,Lamiales,Verbenaceae,Junellia uniflora,—,Nativa,—
+5109,Magnoliopsida,Plantaginales,Plantaginaceae,Ourisia breviflora,—,Nativa,—
+5285,Liliopsida,Liliales,Tecophilaeaceae,Tecophilaea violaeflora,—,Nativa,—
+5357,Magnoliopsida,Solanales,Polemoniaceae,Collomia biflora,—,Nativa,—
+7029,Liliopsida,Cyperales,Poaceae,Danthonia californica var. americana,—,Exótica,—
+7831,Magnoliopsida,Lamiales,Verbenaceae,Lantana camara,—,Exótica,—
